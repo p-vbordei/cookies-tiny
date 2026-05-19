@@ -1,6 +1,6 @@
 {
   "name": "cookies-tiny",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Tiny RFC 6265 cookie parser and serializer. Set-Cookie parsing, SameSite/Secure/HttpOnly, URL-encoding. Zero dependencies.",
   "keywords": [
     "cookie",
