@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/cookies-tiny/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/cookies-tiny/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/cookies-tiny.svg)](https://www.npmjs.com/package/cookies-tiny)
+[![downloads](https://img.shields.io/npm/dm/cookies-tiny.svg)](https://www.npmjs.com/package/cookies-tiny)
+[![bundle](https://img.shields.io/bundlejs/size/cookies-tiny)](https://bundlejs.com/?q=cookies-tiny)
+
 Tiny RFC 6265 cookie parser and serializer. `Cookie` request header → object, `Set-Cookie` value ↔ object, with all the standard attributes (Domain, Path, Expires, Max-Age, Secure, HttpOnly, SameSite). Zero dependencies.
 
 ```ts
