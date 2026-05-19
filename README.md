@@ -1,5 +1,7 @@
 # cookies-tiny
 
+[![ci](https://github.com/p-vbordei/cookies-tiny/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/cookies-tiny/actions/workflows/ci.yml)
+
 Tiny RFC 6265 cookie parser and serializer. `Cookie` request header → object, `Set-Cookie` value ↔ object, with all the standard attributes (Domain, Path, Expires, Max-Age, Secure, HttpOnly, SameSite). Zero dependencies.
 
 ```ts
